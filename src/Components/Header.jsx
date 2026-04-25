@@ -1,4 +1,3 @@
-import React from 'react'
 import FiltroGenerosCine from './FiltroGenerosCine'
 import FiltroGenerosTv from './FiltroGenerosTv'
 import { Link } from 'react-router-dom'
